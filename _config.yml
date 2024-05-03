@@ -18,6 +18,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  artworks:
+    title: Title
+    year: Year
 
 avatar: "/images/lmh.png"
 footer-links:
