@@ -54,6 +54,13 @@ exclude:
 excerpt_separator: <!--more-->
 lsi: true
 
+twitter:
+  username: lucashaley
+social:
+  links:
+    - https://twitter.com/LucasHaley
+    - https://www.linkedin.com/in/LucasHaley
+    - https://github.com/lucashaley
 
 # Enable or disable the site search
 # Supports true (default) or false
