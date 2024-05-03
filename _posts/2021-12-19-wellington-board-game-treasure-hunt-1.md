@@ -10,7 +10,7 @@ splash_image: "/uploads/treasure_splash.jpg"
 posts:
 - 'Wellington Board Game Treasure Hunt #2'
 - 'Wellington Board Game Treasure Hunt #3'
-layout: post
+
 ---
 
 There are quite a lot of things in New Zealand that are relatively much more expensive than other places. Mainly because they have to be shipped there from overseas, but also because the population is quite small. Like, smaller than Pheonix, AZ.

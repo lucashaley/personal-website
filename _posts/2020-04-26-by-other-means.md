@@ -8,7 +8,7 @@ excerpt: Code with your brain, not your fingers
 splash_image: "/uploads/8577ce92-fbd3-4770-a070-8e2ada58c164.png"
 posts:
 - How to create a new Unity template from scratch
-layout: post
+
 ---
 
 Sometimes I find myself beating my head against a particular programming problem, trying to force the code, and inevitably it means I'm not thinking in the right way about it. It's like the Blaise Pascal quote:

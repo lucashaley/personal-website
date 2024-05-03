@@ -8,7 +8,7 @@ excerpt: A mobile game with mobility
 splash_image: "/uploads/screen-shot-2022-10-11-at-5-42-07-pm.png"
 posts:
 - Turf!
-layout: post
+
 ---
 
 One of the first points of interest that came up when designing Turf! was how, as a mobile game that requires movement in physical space, it would be designed so that most people would be able to use it.

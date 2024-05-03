@@ -6,7 +6,7 @@ categories:
 - Review
 excerpt: Is your logic as strong as our logic?
 splash_image: "/uploads/2020-07-02-shipwrecksplash.png"
-layout: post
+
 ---
 
 [The Shipwreck Arcana](https://www.meromorphgames.com/shop/shipwreck-arcana) is a card game of deduction and teamwork, from [Meromorph Games](https://www.meromorphgames.com/). I picked up the [print and play version](https://www.pnparcade.com/products/the-shipwreck-arcana) of it while doing some research for next semester's game course, and sat on it for a while. I was initially taken by the artwork – a cool Mike Mignola-style take on pseudo-tarot cards – but the instructions weren't great.

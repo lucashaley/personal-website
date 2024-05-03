@@ -7,7 +7,7 @@ tags:
 - test
 excerpt: Time to change again. Goodbye old posts.
 splash_image: "/uploads/forestry.jpeg"
-layout: post
+
 ---
 
 So once again I need to migrate this site, as Forestry.io is closing down.

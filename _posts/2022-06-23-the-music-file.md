@@ -5,7 +5,7 @@ categories:
 - Music
 excerpt: What can I possibly do with this
 splash_image: "/uploads/2022-06-23-binder-splash.jpeg"
-layout: post
+
 ---
 
 I got my first guitar when I was about 14 or 15. At the time I was living in London, UK, and didn't have that close of a social circle. I didn't really go out, and I got quite focused on learning to play guitar.

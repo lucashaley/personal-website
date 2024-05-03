@@ -8,7 +8,7 @@ splash_image: "/uploads/824d5764-538b-415a-8305-c5511ac7148f.jpeg"
 posts:
 - Turf! Classes and Accessibility
 - Turf!
-layout: post
+
 ---
 
 I haven’t been posting much about this project, but sometimes something works and you just have to show out-of-context victories. Real-time dynamic location-based matchmaking is hard.

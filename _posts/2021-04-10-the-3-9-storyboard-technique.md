@@ -8,7 +8,7 @@ excerpt: A quick storyboard method for short films and animations.
 splash_image: "/uploads/storyboard_9x_thumb.png"
 posts:
 - 
-layout: post
+
 ---
 
 As a teacher, I’m frequently working with students to refine their story ideas for short films and animations. I’ve found there are two consistent characteristics of students at this stage:

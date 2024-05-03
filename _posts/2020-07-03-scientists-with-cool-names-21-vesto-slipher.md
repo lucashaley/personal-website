@@ -12,7 +12,7 @@ posts:
 - 'Scientists with Cool Names #22: Casimir Funk'
 - 'Scientists with Cool Names #23: Erasmus Smit'
 - 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
-layout: post
+
 ---
 
 Known for using spectroscopy to determine the rotation of galaxies, and for being terribly cavalier with his neckties.

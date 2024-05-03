@@ -10,7 +10,7 @@ splash_image: "/uploads/treasure_splash_03.jpg"
 posts:
 - 'Wellington Board Game Treasure Hunt #2'
 - 'Wellington Board Game Treasure Hunt #1'
-layout: post
+
 ---
 
 This one was pretty special for me. I did a lot of wandering around looking for a good spot up in Mt. Victoria park, and collecting clue photos. But when I got back to the car, my keys were missing! I had to retrace all my steps through the bush, and totally luckily found them again. A one-in-a-million chance.

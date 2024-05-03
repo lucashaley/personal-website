@@ -10,7 +10,7 @@ posts:
 - _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
 - _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
 splash_image: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
-layout: post
+
 ---
 
 This is a special instalment of Scientists with Cool Names: this particular scientist is still alive!
