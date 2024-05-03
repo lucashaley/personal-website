@@ -2,6 +2,7 @@
 title: About Me
 permalink: about
 layout: page
+nav_order: 2
 ---
 ## Research
 

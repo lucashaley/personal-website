@@ -1,7 +1,8 @@
 ---
-title: Posts Archive
+title: Posts
 permalink: "/archive/"
 layout: page
+nav_order: 3
 ---
 
 <div id="archives">
