@@ -36,6 +36,7 @@ kramdown:
 sass:
   style: expanded
 plugins:
+- jekyll-default-layout
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
