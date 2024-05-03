@@ -8,8 +8,6 @@ favicon_ico: "/images/favicon.ico"
 url: https://lucashaley.github.io/personal-website
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 
 collections:
   posts:
