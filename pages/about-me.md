@@ -8,7 +8,7 @@ nav_order: 2
 
 My research is primarily focused on exploring the meaning behind our mediated modern lives through the technology that increasingly defines us. My work uses bleeding-edge tech to explore how we can maintain our humanity and social connections in spite of that same technology.
 
-[Life Drawing](https://www.lucashaley.com/life-drawing/)
+[Life Drawing](https://www.lucashaley.com/life-drawing/){: .btn }
 
 ## Instruction
 
